@@ -173,7 +173,7 @@ GEM
     rake (13.2.1)
     rdoc (6.7.0)
       psych (>= 4.0.0)
-    react_on_rails (14.0.0)
+    react_on_rails (14.0.4)
       addressable
       connection_pool
       execjs (~> 2.5)
@@ -235,7 +235,7 @@ DEPENDENCIES
   jbuilder
   puma (~> 5.0)
   rails (~> 7.0.8, >= 7.0.8.4)
-  react_on_rails (= 14.0)
+  react_on_rails (= 14.0.4)
   selenium-webdriver
   shakapacker (= 8.0)
   sprockets-rails
